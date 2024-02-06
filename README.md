@@ -15,7 +15,7 @@ npm install
 
 ## Uso
 npx react-native run-android
- ou
+ #ou
 npx react-native run-ios
 
 ## Funcionalidades
