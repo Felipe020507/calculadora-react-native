@@ -15,7 +15,7 @@ npm install
 
 ## Uso
 npx react-native run-android
- #ou
+ # ou
 npx react-native run-ios
 
 ## Funcionalidades
@@ -24,7 +24,6 @@ Validação de entrada.
 Botão de login.
 
 ## Licença
-Este projeto está licenciado sob a [Felipe Casale]. Veja o arquivo LICENSE para detalhes.
-
+Este projeto está licenciado sob a [Felipe Casale]. 
 ## Contato
 Para perguntas ou sugestões, entre em contato em felipecasale75@gmail.com
