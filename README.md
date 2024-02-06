@@ -1,6 +1,6 @@
-# Tela de Login em React Native
+# Calculadora React Native
 
-Um aplicativo de tela de login simples desenvolvido em React Native.
+Uma aplicação simples de calculadora desenvolvida em React Native.
 
 ## Pré-requisitos
 - Ambiente de desenvolvimento React Native configurado.
@@ -8,7 +8,7 @@ Um aplicativo de tela de login simples desenvolvido em React Native.
 ## Instalação
 1. Clone o repositório.
    ```bash
-   git clone https://github.com/seu-usuario/seu-aplicativo.git
+   git clone https://github.com/seu-usuario/calculadora-react-native.git
 
 ## Instale as dependências.
 npm install
@@ -19,9 +19,10 @@ npx react-native run-android
 npx react-native run-ios
 
 ## Funcionalidades
-Tela de login com campos para e-mail e senha.
-Validação de entrada.
-Botão de login.
+Interface simples com botões numéricos e operadores.
+Realiza operações básicas de adição, subtração, multiplicação e divisão.
+Exibe o resultado das operações em tempo real.
+
 
 ## Licença
 Este projeto está licenciado sob a [Felipe Casale]. 
